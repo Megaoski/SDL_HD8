@@ -1,0 +1,4 @@
+﻿  Enemy_RedBird.cpp
+c:\users\usuario\documents\github\sdl_hd8\sdl8_handout\enemy_redbird.cpp(41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  SDL Game.vcxproj -> C:\Users\Usuario\Documents\GitHub\SDL_HD8\SDL8_Handout\Debug\SDL8 Handout.exe
+  SDL Game.vcxproj -> C:\Users\Usuario\Documents\GitHub\SDL_HD8\SDL8_Handout\Debug\SDL8 Handout.pdb (Full PDB)
